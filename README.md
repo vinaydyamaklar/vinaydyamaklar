@@ -35,12 +35,7 @@ You dream it, I engineer it to last. I work with founders who see what's possibl
 
 ## ⭐ What Clients Say
 
-<img src="assets/testimonial-upwork.png" alt="Upwork client review" width="600"/>
-
-<img src="assets/testimonial-sammie.png" alt="Sammie Ellard-King testimonial" width="600"/>
-
-<img src="assets/testimonial-adam.png" alt="Adam Murphy testimonial" width="600"/>
-
+<img src="jamie.png" height="80" /> <img src="adam.png" height="80" /> <img src="sammie.png" height="80"/>
 
 ## 🤝 Let's Build Something
 
