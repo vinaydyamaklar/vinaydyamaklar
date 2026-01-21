@@ -11,7 +11,7 @@ I architect production-grade AI systems that solve real business problems. My so
 
 - **Gains App AI Backend** - Multi-agent financial assistant system using LangChain & LangGraph with real-time compliance monitoring
 - **Enterprise Document Intelligence** - RAG system at Carelon powering executive decision-making across 100K+ insurance documents
-- **DocItEasy** - SaaS platform automating document collection for solicitors and finance professionals - [dociteasy.io](https://dociteasy.io)
+- **DocItEasy** - SaaS platform automating document collection for solicitors and finance professionals - [DocItEasy](https://dociteasy.io)
 
 ## 💡 Technical Philosophy
 
