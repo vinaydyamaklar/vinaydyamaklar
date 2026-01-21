@@ -35,7 +35,7 @@ You dream it, I engineer it to last. I work with founders who see what's possibl
 
 ## ⭐ What Clients Say
 
-<img src="jamie.png" height="80" /> <img src="adam.png" height="80" /> <img src="sammie.png" height="80"/>
+<img src="jamie.png" height="75" /> <img src="adam.png" height="75" /> <img src="sammie.png" height="75"/>
 
 ## 🤝 Let's Build Something
 
