@@ -1,4 +1,4 @@
-# 🤖 Vinay Devaraja | LLM Engineer | Multi-Agent Systems & RAG Specialist
+# 🤖 Vinay | LLM Engineer | Multi-Agent Systems & RAG Specialist
 
 I architect production-grade AI systems that solve real business problems. My solutions have:
 
