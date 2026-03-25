@@ -8,10 +8,10 @@ I architect production-grade AI systems that solve real business problems. My so
 
 ## 🚀 Recent Impact Projects
 
-
-- **Gains App AI Backend** - Multi-agent financial assistant system using LangChain & LangGraph with real-time compliance monitoring
-- **Enterprise Document Intelligence** - RAG system at Carelon powering executive decision-making across 100K+ insurance documents
-- **DocItEasy** - SaaS platform automating document collection for solicitors and finance professionals - [DocItEasy](https://dociteasy.io)
+➔ **aiAvenue AI Recruitment** - Prompt optimization and RAG/semantic matching for candidate scoring with angfuse integration for observability
+➔ **Gains App AI Backend** - Multi-agent financial assistant system using LangChain & LangGraph with real-time compliance monitoring
+➔ **Enterprise Document Intelligence** - RAG system at Carelon powering executive decision-making across 100K+ insurance documents
+➔ **DocItEasy** - SaaS platform automating document collection for solicitors and finance professionals - [DocItEasy](https://dociteasy.io)
 
 ## 💡 Technical Philosophy
 
@@ -34,7 +34,7 @@ You dream it, I engineer it to last. I work with founders who see what's possibl
 - **Monitoring**: Custom observability pipelines, LangSmith
 
 ## ⭐ What Clients Say
-
+⭐⭐⭐⭐⭐
 <img src="jamie.png" height="65" /> <img src="adam.png" height="65" /> <img src="sammie.png" width="380"/>
 
 ## 🤝 Let's Build Something
