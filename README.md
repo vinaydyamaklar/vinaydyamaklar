@@ -37,7 +37,7 @@ You dream it, I engineer it to last. I work with founders who see what's possibl
 - **Monitoring**: Custom observability pipelines, LangSmith
 
 ## ⭐ What Clients Say ⭐⭐⭐⭐⭐
-<img src="jamie.png" height="75" /> <img src="aiAvenue.png" height="75"/> <img src="adam.png" height="75" />
+<img src="jamie.png" height="70" /> <img src="aiAvenue.png" height="70"/> <img src="adam.png" height="70" />
 
 ## 🤝 Let's Build Something
 
