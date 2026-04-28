@@ -14,7 +14,7 @@ I architect production-grade AI systems that solve real business problems. My so
 
 ➔ **Enterprise Document Intelligence** - RAG system at Carelon powering executive decision-making across 100K+ insurance documents
 
-➔ **AwesomeHires** - AwesomeHires uses AI to instantly screen, interview, and schedule your applicants 24/7 so you only talk to the top 5%. - [AwesomeHires](https://awesomehires.com/)
+➔ **AwesomeHires** - [AwesomeHires](https://awesomehires.com/) uses AI to instantly screen, interview, and schedule your applicants 24/7 so you only talk to the top 5%.
 
 ## 💡 Technical Philosophy
 
